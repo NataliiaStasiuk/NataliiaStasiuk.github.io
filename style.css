@@ -1,0 +1,159 @@
+img {
+width: 400px;
+}
+
+body{
+position: relative;
+left: 400px;
+text-align: center;
+  width: 600px;
+
+background-color: #e6ccff;
+background-image: url("back.jpg");
+background-size: 2000px;
+}
+.imgbox {
+  text-align: center;
+  position:relative;
+  left: 250px;
+  width: 200px;
+  border: 2px solid #808080;
+  margin: 4px;
+  padding: 6px;
+}
+button {
+  width: 100%;
+}
+
+.imgbox2 {
+  position:relative;
+  left: 400px;
+  text-align: center;
+  width: 200px;
+  border: 2px solid #808080;
+  margin: 2px;
+  padding: 2px;
+}
+button {
+  width: 100%;
+}
+.imgbox3 {
+  float: right;
+  text-align: center;
+  width: 200px;
+  border: 2px solid #808080;
+  margin: 2px;
+  padding: 2px;
+}
+button {
+  width: 100%;
+}
+
+.home-row-2 {
+display: inline-block;
+width: 293px;
+background-color: #4da6ff;
+border: 1px solid black;
+margin-top: 20px;
+}
+
+}
+
+#container{
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ccc;
+}
+header {
+background-color: #808080;
+text-align: center;
+}
+ header ul {
+ list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:#333;
+}
+
+header li {
+  float: left;
+}
+
+header li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ header li a:hover {
+  background-color: #808080;
+}
+
+main{
+padding: 0 10px;
+}
+.home-row-2 {
+display: inline-block;
+width: 293px;
+background-color: #4da6ff;
+border: 1px solid black;
+margin-top: 20px;
+}
+/*This is for the home page */
+#home-col-1{
+display: inline-block;
+width: 485px;
+position: relative;
+}
+
+/*This is for the About page */
+
+
+
+#about-col-1{
+
+
+}
+
+#about-col-2{
+display: inline-block;
+width: 400px;
+padding: 0px 10px;
+margin-right:20px;
+vertical-align:top;
+position: relative;
+right: 400px;
+
+}
+#about-col-3{
+  display: inline-block;
+  width: 400px;
+  margin-left: 20px;
+  padding: 0 20px;
+vertical-align:bottom;
+position:relative;
+left: 400px;
+
+}
+
+#about-col-1-col-1 {
+display: inline-block;
+width: 350px;
+margin-right: 20px;
+position: relative;
+right: 400px;
+}
+
+
+footer {
+background-color:;
+text-align: center;
+}
+footer div{
+width: 200px;
+margin: 0 auto;
+border: 3px solid black;
+}
